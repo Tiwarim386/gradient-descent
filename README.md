@@ -31,7 +31,7 @@ Implement the following formulas, as explained in the text.
 
 *After Gradient Descent*
 
-![Test Image 1](final.png)                                                    ![Test Image 1](final2.png)
+![Test Image 1](final.png)                                                        ![Test Image 1](final2.png)
 
 
 *Error rate graph*
