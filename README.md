@@ -24,18 +24,17 @@ Implement the following formulas, as explained in the text.
           𝑏⟶𝑏+𝛼(𝑦−𝑦̂ )
 
 
-#Initial plot of data
+*Initial plot of data*
 
-![Test Image 1](initial.png)
-
-
-
-#After Gradient Descent
-
-![Test Image 1](final.png)
+                                          ![Test Image 1](initial.png)                                                
 
 
-#Error rate graph
+*After Gradient Descent*
 
-![Test Image 1](error.png)
+![Test Image 1](final.png)                                                    ![Test Image 1](final2.png)
+
+
+*Error rate graph*
+
+![Test Image 1](error.png)                                                    ![Test Image 1](error2.png)
 
