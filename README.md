@@ -26,7 +26,7 @@ Implement the following formulas, as explained in the text.
 
 *Initial plot of data*
 
-                                          ![Test Image 1](initial.png)                                                
+![Test Image 1](initial.png)                                                
 
 
 *After Gradient Descent*
