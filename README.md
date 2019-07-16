@@ -22,3 +22,20 @@ Implement the following formulas, as explained in the text.
       
           𝑤𝑖⟶𝑤𝑖+𝛼(𝑦−𝑦̂ )𝑥𝑖
           𝑏⟶𝑏+𝛼(𝑦−𝑦̂ )
+
+
+#Initial plot of data
+
+![Test Image 1](initial.png)
+
+
+
+#After Gradient Descent
+
+![Test Image 1](final.png)
+
+
+#Error rate graph
+
+![Test Image 1](error.png)
+
